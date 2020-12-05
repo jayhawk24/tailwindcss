@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayhawk24/tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayhawk24/tailwindcss/issues"
+  },
+  "homepage": "https://github.com/jayhawk24/tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.1"
+  }
+}
